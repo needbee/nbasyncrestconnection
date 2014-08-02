@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>667E7C23-057A-41F1-A605-E070F8D17312</string>
+	<key>IDESourceControlProjectName</key>
+	<string>demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>67BF8666-DD21-4E51-B0DE-D87B3E5E58F6</key>
+		<string>https://github.com/needbee/nbasyncrestconnection.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>demo/demo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>67BF8666-DD21-4E51-B0DE-D87B3E5E58F6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/needbee/nbasyncrestconnection.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>67BF8666-DD21-4E51-B0DE-D87B3E5E58F6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67BF8666-DD21-4E51-B0DE-D87B3E5E58F6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NBAsyncRestConnection</string>
+		</dict>
+	</array>
+</dict>
+</plist>
